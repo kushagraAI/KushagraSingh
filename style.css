@@ -684,7 +684,10 @@ section {
     align-items: center;
     width: 100%;
 }
-
+#myForm{
+    justify-content: center;
+    align-items: center;
+}
 .contact form{
     justify-content: center;
     align-items: center;
