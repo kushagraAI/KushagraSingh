@@ -680,17 +680,12 @@ section {
 /* contact section------------------------------------- */
 .contact{
     background: var(--secon-bg-color);
-    justify-content: center;
-    align-items: center;
     width: 100%;
 }
 #myForm{
-    justify-content: center;
-    align-items: center;
+    margin: auto;
 }
 .contact form{
-    justify-content: center;
-    align-items: center;
     text-align: center;
     max-width: 50rem;
     margin: 1rem;
@@ -893,10 +888,6 @@ footer a i{
     .navlist a {
         padding: 8px 15px;
 
-    }
-    #myForm {
-        align-items: center;
-        justify-content: center;
     }
     :root {
 
